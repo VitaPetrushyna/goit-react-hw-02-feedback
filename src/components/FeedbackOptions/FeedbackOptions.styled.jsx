@@ -1,9 +1,5 @@
 import styled from 'styled-components';
 
-export const Feedback = styled.div`
-  text-align: start;
-`;
-
 export const FeedbackList = styled.ul`
   list-style: none;
   display: flex;
@@ -20,8 +16,4 @@ export const FeedbackBtn = styled.button`
     1px 4px 6px rgb(0 0 0 / 16%);
 
   font-size: 18px;
-`;
-export const Statistic = styled.div``;
-export const StatisticList = styled.ul`
-  list-style: none;
 `;
